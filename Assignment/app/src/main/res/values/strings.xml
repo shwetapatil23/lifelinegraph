@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LineGraph</string>
+    <string name="chart_title"><b>Minute</b> added to your\nlife till date</string>
+</resources>
